@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Final Report Industrial Training</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Times New Roman", serif;
+      line-height: 1.8;
+      background-color: #f4f4f4;
+      color: #000;
+    }
+
+    header {
+      background: #000;
+      color: #fff;
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 36px;
+      margin-bottom: 10px;
+    }
+
+    header h2 {
+      font-size: 22px;
+      font-weight: normal;
+    }
+
+    section {
+      background: #fff;
+      margin: 20px auto;
+      padding: 30px;
+      max-width: 900px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    h3 {
+      border-bottom: 2px solid #000;
+      padding-bottom: 5px;
+      margin-bottom: 15px;
+      font-size: 22px;
+    }
+
+    p {
+      text-align: justify;
+    }
+
+    ul {
+      margin-left: 20px;
+    }
+
+    footer {
+      background: #000;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>FINAL REPORT OF INDUSTRIAL TRAINING SESSION</h1>
+  <h2>2025 / 2026</h2>
+  <p>
+    By <b>Nur Ain Syafiah Binti Mohd Azhar</b><br>
+    (17DDT23F1004)
+  </p>
+</header>
+
+<section>
+  <h3>1. Introduction</h3>
+  <p>
+    Industrial Training is an important requirement for students to gain
+    practical experience and exposure to the real working environment.
+    This report is prepared to summarize the activities, experiences,
+    and knowledge gained throughout the industrial training period.
+  </p>
+</section>
+
+<section>
+  <h3>2. Company Background</h3>
+  <p>
+    The industrial training was conducted at a selected company which
+    focuses on providing services related to technology and business solutions.
+    The company aims to improve efficiency and customer satisfaction through
+    innovative systems.
+  </p>
+</section>
+
+<section>
+  <h3>3. Scope of Work</h3>
+  <ul>
+    <li>Data entry and documentation</li>
+    <li>Customer support handling</li>
+    <li>System monitoring and reporting</li>
+    <li>Packaging and inventory tasks</li>
+  </ul>
+</section>
+
+<section>
+  <h3>4. Weekly Summary</h3>
+  <p>
+    Throughout the training period, various tasks were assigned on a weekly basis.
+    These tasks helped improve communication skills, technical understanding,
+    and time management.
+  </p>
+</section>
+
+<section>
+  <h3>5. Conclusion</h3>
+  <p>
+    In conclusion, the industrial training provided valuable experience and
+    enhanced both technical and soft skills. The exposure gained during
+    the training period will be beneficial for future career development.
+  </p>
+</section>
+
+<footer>
+  Politeknik Sultan Idris Shah &copy; 2026
+</footer>
+
+</body>
+</html>
